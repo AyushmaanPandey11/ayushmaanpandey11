@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushmaan Pandey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmaanpandey11" alt="ayushmaanpandey11" /></a> </p>
-
 - 🌱 I’m currently learning **Microservices, Devops, Full stack and advance backend**
 
 - 👨‍💻 All of my projects are available at [https://dev-portfolio-seven-delta.vercel.app/](https://dev-portfolio-seven-delta.vercel.app/)
