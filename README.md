@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmaanpandey11" alt="ayushmaanpandey11" /></a> </p>
 
-- 🌱 I’m currently learning **Microservices, Devops, Full stack and avbackend**
+- 🌱 I’m currently learning **Microservices, Devops, Full stack and advance backend**
 
 - 👨‍💻 All of my projects are available at [https://dev-portfolio-seven-delta.vercel.app/](https://dev-portfolio-seven-delta.vercel.app/)
 
@@ -11,8 +11,11 @@
 
 - 📫 How to reach me **ayushmaan1122pandey@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xK-nsXAGoshPrVen8rAEIUIaAf1mbyiG/view?usp=sharing](https://drive.google.com/file/d/1xK-nsXAGoshPrVen8rAEIUIaAf1mbyiG/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ayushmaanp67922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushmaanp67922" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushmaan-pandey-00a9531b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushmaan-pandey-00a9531b6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushmaanpandey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushmaanpandey11" height="30" width="40" /></a>
 </p>
